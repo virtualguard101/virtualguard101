@@ -11,8 +11,8 @@ Hi! This is virtualguard101👋
 
 - 🔭 I’m now a undergraduate student@Fujian University of Technology.
 
-- 🌱 Currently learning Machine Learning, and some basic theory of Computer Science, also engage some researching activity.
+- 🌱 Currently learning Machine Learning, and some basic theory of Computer Science, also engage some researching activities.
 
-- 📫 Contact information and other sites are available on my [Homepage](https://home.virtualguard101.com/).
+- 📫 Contact information and some sites about me are available on my [Homepage](https://home.virtualguard101.com/).
 
 [![SilveryStar's Github Stats](https://github-readme-stats.vercel.app/api?username=virtualguard101&show_icons=true)](https://github.com/virtualguard101)
