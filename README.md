@@ -9,7 +9,7 @@
 
 Hi! This is virtualguard101👋
 
-- 🔭 I’m now a undergraduate student@Fujian University of Technology.
+- 🔭 I’m now an undergraduate student@Fujian University of Technology.
 
 - ⚡ Meanwhile an open source amateur.
 
