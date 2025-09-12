@@ -11,6 +11,8 @@ Hi! This is virtualguard101👋
 
 - 🔭 I’m now a undergraduate student@Fujian University of Technology.
 
+- ⚡ Also an open source amateur.
+
 - 🌱 Currently learning Machine Learning, and some basic theory of Computer Science, also engage some researching activities.
 
 - 📫 Contact information and some sites about me are available on my [Homepage](https://home.virtualguard101.com/).
