@@ -17,4 +17,6 @@ Hi! This is virtualguard101👋
 
 - 📫 Contact information and some sites about me are available on my [Homepage](https://home.virtualguard101.com/).
 
+- 🔥 Learn more about my work and updates on my [Wiki](https://wiki.virtualguard101.com/)
+
 [![SilveryStar's Github Stats](https://github-readme-stats.vercel.app/api?username=virtualguard101&show_icons=true)](https://github.com/virtualguard101)
