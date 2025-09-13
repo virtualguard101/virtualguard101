@@ -13,7 +13,7 @@ Hi! This is virtualguard101👋
 
 - ⚡ Meanwhile an open source amateur.
 
-- 🌱 Currently researching Machine Learning/Deep Learning and other fields related to ==**Artificial Intelligence**==, and exploring basic theory of Computer Science, also engaging in some research activities ~~and some meaningless tricks~~.
+- 🌱 Currently researching Machine Learning/Deep Learning and other fields related to **Artificial Intelligence**, and exploring basic theory of Computer Science, also engaging in some research activities ~~and some meaningless tricks~~.
 
 - 📫 Contact information and some sites about me are available on my [Homepage](https://home.virtualguard101.com/).
 
