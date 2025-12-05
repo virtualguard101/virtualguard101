@@ -23,7 +23,7 @@ Hi! This is virtualguard101👋
 
 💻 **My Stats**
 
-[![wakatime](https://wakatime.com/badge/user/915e5316-99c6-4563-a483-ef186cf000c9.svg)](https://wakatime.com/@virtualguard101)
+[![wakatime](https://wakatime.com/badge/user/37782b64-a909-4e40-ba74-7ffb296b123b.svg)](https://wakatime.com/@virtualguard101)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
