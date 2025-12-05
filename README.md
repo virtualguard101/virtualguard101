@@ -5,7 +5,7 @@
 -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virtualguard101&layout=compact)](https://github.com/virtualguard101) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtualguard101" align="right" alt="top langs" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtualguard101" align="right" alt="top langs" /> -->
 
 Hi! This is virtualguard101👋
 
@@ -19,4 +19,11 @@ Hi! This is virtualguard101👋
 
 - 🔥 Learn more about my work and updates on my [Wiki](https://wiki.virtualguard101.com/).
 
-[![SilveryStar's Github Stats](https://github-readme-stats.vercel.app/api?username=virtualguard101&show_icons=true)](https://github.com/virtualguard101)
+<!-- [![virtualguard101's Github Stats](https://github-readme-stats.vercel.app/api?username=virtualguard101&show_icons=true)](https://github.com/virtualguard101) -->
+
+💻 **My Stats**
+
+[![wakatime](https://wakatime.com/badge/user/915e5316-99c6-4563-a483-ef186cf000c9.svg)](https://wakatime.com/@virtualguard101)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
