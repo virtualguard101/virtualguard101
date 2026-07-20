@@ -10,11 +10,11 @@
 
 Hi! This is virtualguard101👋
 
-- 🔭 I’m now an undergraduate student@Fujian University of Technology.
+- 🔭 I’m now an undergraduate student of [Fujian University of Technology](https://faculty-en.fjut.edu.cn/about.jsp?urltype=tree.TreeTempUrl&wbtreeid=1008).
 
 - ⚡ Meanwhile an open source amateur.
 
-- 🌱 Currently researching Machine Learning/Deep Learning and other fields related to **Artificial Intelligence**, and exploring basic theory of Computer Science, also engaging in some research activities ~~and some meaningless tricks~~.
+- 🌱 Currently researching Computer System and Architecture and some fields related to **AI Infrastructure**, and exploring basic theory of Computer Science, also engaging in some research activities ~~and some meaningless tricks~~.
 
 - 📫 Contact information and some sites about me are available on my [Homepage](https://home.virtualguard101.com/).
 
