@@ -32,15 +32,15 @@ Hi! This is virtualguard101👋
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2026 - To: 15 October 2026
+From: 16 September 2026 - To: 16 October 2026
 
-Total Time: 88 hrs 33 mins
+Total Time: 87 hrs 30 mins
 
-Markdown                   46 hrs 17 mins        ████████████▓░░░░░░░░░░░░   50.52 %
-C                          17 hrs 3 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.61 %
-YAML                       4 hrs 39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-JSON                       4 hrs                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Other                      3 hrs 4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Markdown      45 hrs 26 mins        ████████████▓░░░░░░░░░░░░   50.02 %
+C             16 hrs 51 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.56 %
+YAML          4 hrs 36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+JSON          3 hrs 58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Makefile      3 hrs 21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->
