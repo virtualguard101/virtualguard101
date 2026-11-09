@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_OAUTH_TOKEN }} # WakaTime OAuth token, not the write-only plugin API key
           TIME_RANGE: last_30_days
           SHOW_TOTAL: true
           SHOW_TITLE: true
